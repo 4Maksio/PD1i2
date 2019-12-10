@@ -1,0 +1,16 @@
+# ninja log v5
+98	700	596669136	CMakeFiles/upper.dir/File.cpp.obj	b842514f8ed8e0c
+1	728	596669136	CMakeFiles/upper.dir/main.cpp.obj	e8413bb585bb98db
+728	1339	596669136	upper.exe	27ffe2f697ce0fe7
+0	1033	596930579	CMakeFiles/upper.dir/main.cpp.obj	e8413bb585bb98db
+0	590	596931226	CMakeFiles/upper.dir/File.cpp.obj	b842514f8ed8e0c
+590	1135	596931227	upper.exe	27ffe2f697ce0fe7
+1	617	596931343	CMakeFiles/upper.dir/File.cpp.obj	b842514f8ed8e0c
+617	1123	596931343	upper.exe	27ffe2f697ce0fe7
+0	1041	596934078	CMakeFiles/upper.dir/main.cpp.obj	e8413bb585bb98db
+88	1044	596934078	CMakeFiles/upper.dir/File.cpp.obj	b842514f8ed8e0c
+1045	1392	596934078	upper.exe	27ffe2f697ce0fe7
+0	635	596934435	CMakeFiles/upper.dir/main.cpp.obj	e8413bb585bb98db
+636	1116	596934436	upper.exe	27ffe2f697ce0fe7
+0	755	596934487	CMakeFiles/upper.dir/main.cpp.obj	e8413bb585bb98db
+756	1209	596934488	upper.exe	27ffe2f697ce0fe7
