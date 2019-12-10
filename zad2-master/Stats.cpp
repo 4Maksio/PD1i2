@@ -1,7 +1,15 @@
 #include "Stats.h"
 #include <ostream>
 
-std::ostream &operator<<(std::ostream &stream, const Stats &stats) {
+void Stats::add(std::string type, Operation operation)
+{
+	Collection.emplace(type, operation);
+}
 
-    return stream;
+std::ostream &operator<<(std::ostream &stream, const Stats &stats) {
+	for(auto item : stats.Collection)
+	{
+		//do something
+	}
+	return stream;
 }
