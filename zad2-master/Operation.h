@@ -6,6 +6,9 @@
 #include <chrono>
 
 class Operation {
+private:
+	std::chrono::high_resolution_clock::time_point atStart;
+	std::chrono::high_resolution_clock::time_point atStop;
 public:
     void start();
     void stop();
