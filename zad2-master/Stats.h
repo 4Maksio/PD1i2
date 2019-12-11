@@ -1,6 +1,7 @@
 #ifndef ZAD2_STATS_H
 #define ZAD2_STATS_H
 
+#include <vector>
 #include <map>
 #include "Operation.h"
 
@@ -9,7 +10,8 @@ public:
 	void add(std::string type, Operation operation);
 
 private:
-	std::map<std::string, Operation> Collection;
+	std::vector<std::string> Types;
+	std::map<Operation, int> Operations;
 	friend std::ostream& operator << (std::ostream& stream, const Stats& stats);
 };
 

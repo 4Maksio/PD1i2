@@ -6,12 +6,12 @@
 
 class OperationTracker {
 public:
-    OperationTracker(Stats& stats, std::string type);
-    ~OperationTracker();
-
     Stats& stats;
     std::string type;
     Operation operation;
+
+    OperationTracker(Stats& stats, std::string type);
+    ~OperationTracker();
 };
 
 
