@@ -1,0 +1,6 @@
+# ninja log v5
+279	1840	597878100	CMakeFiles/zad2.dir/Operation.cpp.obj	cc73dac4e4a01e2a
+901	1859	597878100	CMakeFiles/zad2.dir/OperationTracker.cpp.obj	55f9f7a4cc778cb1
+1	2168	597878100	CMakeFiles/zad2.dir/main.cpp.obj	2a8a46a211b1ec97
+576	2169	597878100	CMakeFiles/zad2.dir/Stats.cpp.obj	bb0e4e42b66b00a1
+2169	3804	597878102	zad2.exe	cbddb65ea6625d28

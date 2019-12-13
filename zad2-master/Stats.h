@@ -10,8 +10,7 @@ public:
 	void add(std::string type, Operation operation);
 
 private:
-	std::vector<std::string> Types;
-	std::map<Operation, int> Operations;
+	std::map<std::string, std::vector<Operation>> Operations;
 	friend std::ostream& operator << (std::ostream& stream, const Stats& stats);
 };
 

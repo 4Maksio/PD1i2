@@ -5,12 +5,12 @@
 
 void doSomething(Stats& stats) {
     OperationTracker tracker(stats, "something");
-    std::this_thread::sleep_for(std::chrono::seconds(1));
+    std::this_thread::sleep_for(std::chrono::milliseconds(1));
 }
 
 void doSomethingButLonger(Stats& stats) {
     OperationTracker tracker(stats, "something longer");
-    std::this_thread::sleep_for(std::chrono::seconds(2));
+    std::this_thread::sleep_for(std::chrono::milliseconds(2));
 }
 
 int main() {
