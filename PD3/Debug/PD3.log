@@ -1,6 +1,2 @@
 ﻿  PD3.cpp
-C:\Users\jozst\Documents\PD1i2\PD3\PD3.cpp(54,20): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
-C:\Users\jozst\Documents\PD1i2\PD3\PD3.cpp(54,10): warning C4309: "inicjowanie": obcięcie stałej wartości
-C:\Users\jozst\Documents\PD1i2\PD3\PD3.cpp(54,36): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
-C:\Users\jozst\Documents\PD1i2\PD3\PD3.cpp(54,26): warning C4309: "inicjowanie": obcięcie stałej wartości
   PD3.vcxproj -> C:\Users\jozst\Documents\PD1i2\Warsztaty3\Debug\PD3.exe
